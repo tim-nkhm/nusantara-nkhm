@@ -12,7 +12,7 @@ file_mapping = {
     "EQ": "eq_1.json",
     "SQ": "sq_1.json",
     "AQ": "aq_1.json",
-    "Nasionalisme": "nasional_1.json"
+    "Nasionalisme": "nasionalisme_1.json"
 }
 
 for folder, filename in file_mapping.items():
